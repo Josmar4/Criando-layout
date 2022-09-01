@@ -1,0 +1,99 @@
+body {
+  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Open Sans', sans-serif;
+
+  margin: 0;
+  background: #2F2E41;
+
+  min-height: 100vh;
+}
+
+.page {
+  width: auto;
+  margin: 0 auto
+  
+}
+
+#locked.logo {
+  margin-right: 607px;
+}
+
+nav { 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin: 71px 99px 101px;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 89px 157px 99px;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  font-family: 'JetBrains Mono';
+  color: #FFFFFF;
+  font-size: 14px;
+  line-height: 28px;
+  list-style: none;
+  gap: 64px;
+  
+}
+
+#pclocked {
+  display: flex;
+}
+
+
+h1 {
+  font-family: 'JetBrains Mono';
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  margin-bottom: 59px;
+
+}
+
+h1 span {
+  color: #00BFA6;
+  font-weight: bold;
+
+}
+
+p {
+  font-family: 'Open Sans';
+  color: #C2C2C2;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+
+}
+
+p span {
+  color: #00BFA6;
+  font-weight: bold;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  margin: 0 auto 27px;
+  border: 1px solid #00BFA6;
+}
+
+#lockerb {
+margin-bottom: 20px;
+margin-left: 20px;
+
+}
